@@ -1,0 +1,11 @@
+{
+  "PROFILE_TITLE": "Hồ sơ",
+  "PROFILE_FULLNAME": "Họ Tên",
+  "PROFILE_FIRSTNAME": "Tên",
+  "PROFILE_LASTNAME": "Họ",
+  "PROFILE_PASSWORD": "Mật khẩu",
+  "PROFILE_CONFIRM_PASSWORD": "Xác nhận mật khẩu",
+  "PROFILE_CANCEL": "Hủy",
+  "PROFILE_UPDATE": "Cập nhật",
+  "PROFILE_VALIDATE_CONFIRM_PASS": "Hai mật khẩu bạn đã nhập không khớp!"
+}

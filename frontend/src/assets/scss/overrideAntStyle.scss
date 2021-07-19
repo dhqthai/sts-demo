@@ -1,0 +1,18 @@
+@import '~antd/dist/antd.css';
+
+.ant-menu.ant-menu-dark,
+.ant-menu-dark .ant-menu-sub,
+.ant-menu.ant-menu-dark .ant-menu-sub {
+  background: #333333;
+}
+
+.ant-layout-sider {
+  transition: width 0.5s ease-in-out;
+}
+.ant-layout-sider-dark {
+  background: #333333;
+}
+
+.ant-modal-body {
+  padding: 40px;
+}
